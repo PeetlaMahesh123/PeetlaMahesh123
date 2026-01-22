@@ -1,6 +1,6 @@
 # Hi 👋, I'm Peetla Mahesh  
 
-**Aspiring Software Developer | Full-Stack Development**
+**Aspiring Software Developer | Full-Stack Developer|Java Developer**
 
 A passionate and motivated software developer with strong foundations in full-stack development, problem-solving, and building real-world applications. I enjoy creating scalable, user-friendly web applications and continuously improving my skills to match modern industry standards.
 
@@ -14,28 +14,25 @@ A passionate and motivated software developer with strong foundations in full-st
 - 🎯 Focused on writing clean, efficient, and maintainable code  
 
 ---
+## 💻 Programming Languages
+Java • Python • JavaScript • C • SQL
 
-## 🛠️ Skills & Technologies
+## 🌐 Web Development
+HTML • CSS • React.js • Node.js (Basics) • Responsive Design • REST APIs
 
-**Programming Languages**  
-Java • Python • JavaScript • C • SQL  
-
-**Web Development**  
-HTML • CSS • React.js • Node.js (Basics) • Responsive Design • REST APIs  
-
-**Backend & Databases**  
+## 🗄️ Backend & Databases
 MySQL • MongoDB • JDBC • CRUD Operations  
-Authentication & Authorization • PHP (Basics) • XAMPP  
+Authentication & Authorization • PHP (Basics) • XAMPP
 
-**Core CS Concepts**  
+## 🧠 Core CS Concepts
 Data Structures & Algorithms • OOP • Time & Space Complexity  
-Searching & Sorting • Database Normalization  
+Searching & Sorting • Database Normalization
 
-**Tools & Platforms**  
-Git & GitHub • VS Code • Eclipse / IntelliJ • Postman • Chrome DevTools • Firebase  
+## 🛠️ Tools & Platforms
+Git & GitHub • VS Code • Eclipse / IntelliJ • Postman • Chrome DevTools • Firebase
 
-**UI/UX**  
-Figma (Basics) • Wireframing • Component-based UI Design  
+## 🎨 UI/UX
+Figma (Basics) • Wireframing • Component-based UI Design
 
 ---
 
