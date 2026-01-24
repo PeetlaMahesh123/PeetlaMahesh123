@@ -1,15 +1,10 @@
-<h1 align="center">Hi 👋, I'm Peetla Mahesh</h1>
+# Hi 👋, I'm Peetla Mahesh
 
-<p align="center">
-  <b>Aspiring Software Developer | Full-Stack Developer | Java Developer</b>
-</p>
+**Aspiring Software Developer | Full-Stack Developer | Java Developer**
 
-<p align="center">
-  A passionate and motivated software developer with strong foundations in full-stack development, backend engineering, and problem-solving.
-  I enjoy building real-world, scalable applications and continuously improving my skills to match modern industry standards.
-</p>
+A passionate and motivated software developer with strong foundations in full-stack development, backend engineering, and problem-solving. I enjoy building real-world, scalable applications and continuously improving my skills to align with modern industry standards.
 
-<hr/>
+---
 
 ## 📊 GitHub Stats
 
