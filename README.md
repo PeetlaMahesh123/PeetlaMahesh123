@@ -13,9 +13,6 @@ A passionate and motivated software developer with strong foundations in full-st
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeetlaMahesh123&layout=donut&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PeetlaMahesh123&theme=tokyonight&hide_border=true"/>
-</p>
 
 ---
 
