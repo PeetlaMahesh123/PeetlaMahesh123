@@ -38,13 +38,6 @@ Figma (Basics) • Wireframing • Component-based UI Design
 
 ## 📌 Projects
 
-### 🍽️ Online Food Ordering Management System  
-**Technologies:** HTML, CSS, PHP, MySQL  
-- Developed a full-stack web application for managing food orders  
-- Implemented backend logic, database connectivity, and CRUD operations  
-- Built a functional real-time web application  
-
----
 
 ### 🎓 Student Management System (JDBC)  
 **Technologies:** Java, JDBC, MySQL  
