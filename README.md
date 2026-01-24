@@ -1,20 +1,25 @@
-# Hi 👋, I'm Peetla Mahesh
+<h1 align="center">Hi 👋, I'm Peetla Mahesh</h1>
 
-**Aspiring Software Developer | Full-Stack Developer | Java Developer**
+<p align="center">
+  <b>Aspiring Software Developer | Full-Stack Developer | Java Developer</b>
+</p>
 
-A passionate and motivated software developer with strong foundations in full-stack development, backend engineering, and problem-solving. I enjoy building real-world, scalable applications and continuously improving my skills to align with modern industry standards.
+<p align="center">
+  A passionate and motivated software developer with strong foundations in full-stack development, backend engineering, and problem-solving.
+  I enjoy building real-world, scalable applications and continuously improving my skills to match modern industry standards.
+</p>
 
----
+<hr/>
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PeetlaMahesh123&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeetlaMahesh123&layout=donut&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PeetlaMahesh&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeetlaMahesh&layout=donut&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PeetlaMahesh123&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PeetlaMahesh&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
