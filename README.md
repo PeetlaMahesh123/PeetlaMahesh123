@@ -1,6 +1,6 @@
 # Hi 👋, I'm Peetla Mahesh  
 
-**Aspiring Software Developer | Full-Stack Developer|Java Developer**
+**Aspiring Software Developer | Full-Stack Developer | Java Developer**
 
 A passionate and motivated software developer with strong foundations in full-stack development, problem-solving, and building real-world applications. I enjoy creating scalable, user-friendly web applications and continuously improving my skills to match modern industry standards.
 
@@ -14,6 +14,7 @@ A passionate and motivated software developer with strong foundations in full-st
 - 🎯 Focused on writing clean, efficient, and maintainable code  
 
 ---
+
 ## 💻 Programming Languages
 Java • Python • JavaScript • C • SQL
 
@@ -38,9 +39,20 @@ Figma (Basics) • Wireframing • Component-based UI Design
 
 ## 📌 Projects
 
+### 🛒 Shop Management System (Hibernate)  
+**Technologies:** Java, Hibernate ORM, MySQL  
+
+- Developed a Hibernate-based Shop Management System with **admin-only authentication** using **enum-based role management**  
+- Used **Java `enum`** to define and enforce **ADMIN role access**, preventing unauthorized user operations  
+- Implemented full **CRUD operations** for products and users using Hibernate ORM  
+- Ensured **secure transaction management** and optimized database interaction with MySQL  
+- Strengthened understanding of ORM, role-based access control, and enterprise Java application design  
+
+---
 
 ### 🎓 Student Management System (JDBC)  
 **Technologies:** Java, JDBC, MySQL  
+
 - Developed a console-based student management system using JDBC  
 - Implemented CRUD operations for student records  
 - Used JDBC for database connectivity and SQL query execution  
@@ -50,6 +62,7 @@ Figma (Basics) • Wireframing • Component-based UI Design
 
 ### 🏥 Hospital Management System (JDBC)  
 **Technologies:** Java, JDBC, MySQL  
+
 - Built a hospital management system to manage patients, doctors, and appointments  
 - Implemented CRUD operations using JDBC  
 - Designed relational database tables for hospital workflows  
