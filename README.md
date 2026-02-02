@@ -64,7 +64,6 @@ A passionate and motivated software developer with strong foundations in full-st
 - Database Normalization  
 
 ---
-
 ## 🛠️ Tools & Platforms
 
 - Git & GitHub  
