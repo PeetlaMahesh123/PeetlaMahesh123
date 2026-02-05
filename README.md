@@ -3,15 +3,6 @@
 **Aspiring Software Developer | Full-Stack Developer | Java Developer**
 
 A passionate and motivated software developer with strong foundations in full-stack development, backend engineering, and problem-solving. I enjoy building real-world, scalable applications and continuously improving my skills to align with modern industry standards.
-
----
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=PeetlaMahesh123&theme=tokyonight&hide_border=true)
-
-
-
-
 ---
 
 ## 🚀 About Me
