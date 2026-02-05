@@ -8,10 +8,12 @@ A passionate and motivated software developer with strong foundations in full-st
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PeetlaMahesh123&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeetlaMahesh123&layout=compact&theme=tokyonight" height="170"/>
-</p>
+## 📊 GitHub Stats
+
+![Mahesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=PeetlaMahesh123&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PeetlaMahesh123&layout=compact&theme=tokyonight)
+
 
 
 ---
