@@ -5,11 +5,9 @@
 A passionate and motivated software developer with strong foundations in full-stack development, backend engineering, and problem-solving. I enjoy building real-world, scalable applications and continuously improving my skills to align with modern industry standards.
 
 ---
+## 🔥 GitHub Streak
 
-## 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=PeetlaMahesh123&show_icons=true&theme=tokyonight" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeetlaMahesh123&layout=compact&theme=tokyonight" height="170"/>
+![GitHub Streak](https://streak-stats.demolab.com?user=PeetlaMahesh123&theme=tokyonight&hide_border=true)
 
 
 
