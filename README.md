@@ -369,6 +369,16 @@ continuously improving my skills to align with modern industry standards."
 ## 📌 Projects
 
 ---
+### 🛒 GlobalMart E-Commerce Application (Full-Stack + Razorpay)
+
+- Built a full-stack e-commerce application with Admin and Customer modules
+- Implemented secure user registration, login, and logout functionality
+- Developed Admin features to add, update, delete products and manage users
+- Integrated business analytics with daily, monthly, yearly, and overall reports
+- Enabled customers to browse products, manage cart, and place orders
+- Integrated Razorpay payment gateway for secure online payments and order confirmation
+
+---
 
 ### 🎓 React Todo List Application (React.js)
 
