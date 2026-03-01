@@ -371,76 +371,76 @@ continuously improving my skills to align with modern industry standards."
 ---
 ### 🛒 GlobalMart E-Commerce Application (Full-Stack + Razorpay)
 
-- Built a full-stack e-commerce application with Admin and Customer modules
-- Implemented secure user registration, login, and logout functionality
-- Developed Admin features to add, update, delete products and manage users
-- Integrated business analytics with daily, monthly, yearly, and overall reports
-- Enabled customers to browse products, manage cart, and place orders
-- Integrated Razorpay payment gateway for secure online payments and order confirmation
+- Built a full-stack e-commerce application with Admin and Customer modules.
+- Implemented secure user registration, login, and logout functionality.
+- Developed Admin features to add, update, delete products and manage users.
+- Integrated business analytics with daily, monthly, yearly, and overall reports.
+- Enabled customers to browse products, manage cart, and place orders.
+- Integrated Razorpay payment gateway for secure online payments and order confirmation.
 
 ---
 
 ### 🎓 React Todo List Application (React.js)
 
-- Built a responsive task management application using React  
-- Implemented add, edit, delete, and mark-as-complete features  
-- Used React Hooks (useState, useEffect) for state management  
-- Integrated Local Storage for persistent data storage  
+- Built a responsive task management application using React. 
+- Implemented add, edit, delete, and mark-as-complete features. 
+- Used React Hooks (useState, useEffect) for state management.  
+- Integrated Local Storage for persistent data storage.  
 
 ---
 
 ### 🤖 MyPortfolio with Custom AI Assistant (Full-Stack + AI Integration)
 
-- Built an interactive and fully responsive personal portfolio website  
-- Integrated a custom AI assistant to answer questions about skills, projects, and experience  
-- Implemented real-time AI response handling using API integration  
-- Designed dynamic UI sections for projects, certifications, and contact details  
-- Demonstrated full-stack development with frontend, backend, and AI integration  
-- Enhanced recruiter interaction with intelligent guided responses  
+- Built an interactive and fully responsive personal portfolio website. 
+- Integrated a custom AI assistant to answer questions about skills, projects, and experience.  
+- Implemented real-time AI response handling using API integration.  
+- Designed dynamic UI sections for projects, certifications, and contact details.  
+- Demonstrated full-stack development with frontend, backend, and AI integration.  
+- Enhanced recruiter interaction with intelligent guided responses.  
 
 ---
 
 ### 🛒 Shop Management System (Hibernate)
 
-- Implemented admin-only authentication using enum-based role management  
-- Developed secure CRUD operations for managing shop data  
-- Prevented unauthorized access with proper validation and security checks  
+- Implemented admin-only authentication using enum-based role management.  
+- Developed secure CRUD operations for managing shop data.  
+- Prevented unauthorized access with proper validation and security checks.  
 
 ---
 
 ### 📝 Online Quiz Application (HTML, CSS, JavaScript)
 
-- Built an interactive quiz platform using pure frontend technologies  
-- Implemented dynamic question rendering and answer validation logic  
-- Developed score tracking system with performance summary  
-- Integrated countdown timer for enhanced user experience  
-- Designed clean and responsive UI layout  
+- Built an interactive quiz platform using pure frontend technologies.  
+- Implemented dynamic question rendering and answer validation logic.  
+- Developed score tracking system with performance summary.  
+- Integrated countdown timer for enhanced user experience.  
+- Designed clean and responsive UI layout.  
 
 ---
 
 ### 🎓 Student Management System (JDBC)
 
-- Built CRUD operations for managing student records  
-- Used JDBC for secure database connectivity  
-- Implemented structured query handling and data validation  
+- Built CRUD operations for managing student records.  
+- Used JDBC for secure database connectivity.  
+- Implemented structured query handling and data validation.  
 
 ---
 
 ### 🎮 Guess Word Game (HTML, CSS, JavaScript)
 
-- Developed an interactive word guessing game using pure frontend technologies  
-- Implemented random word generation and input validation logic  
-- Provided real-time feedback for correct and incorrect guesses  
-- Added attempt limits with win/lose condition handling  
-- Designed responsive and engaging user interface  
+- Developed an interactive word guessing game using pure frontend technologies.  
+- Implemented random word generation and input validation logic..  
+- Provided real-time feedback for correct and incorrect guesses.  
+- Added attempt limits with win/lose condition handling.  
+- Designed responsive and engaging user interface.  
 
 ---
 
 ### 🏥 Hospital Management System (JDBC)
 
-- Managed patients, doctors, and appointments efficiently  
-- Designed relational database tables with proper schema structure  
-- Implemented CRUD operations using JDBC connectivity  
+- Managed patients, doctors, and appointments efficiently.  
+- Designed relational database tables with proper schema structure.  
+- Implemented CRUD operations using JDBC connectivity.  
 
 ---
 ## 📚 Currently Learning
