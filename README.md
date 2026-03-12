@@ -45,11 +45,11 @@ continuously improving my skills to align with modern industry standards."
 <h2 align="center">🌍 Live Projects</h2>
 
 <p align="center">
-🌐 <a href="https://peetlamahesh123.github.io/myPortfolio/">Portfolio Website</a>  
+   🛍️ <a href="https://peetlamahesh123.github.io/globalmart/">GlobalMart E-Commerce Website</a> <br>
+| 🌐 <a href="https://peetlamahesh123.github.io/myPortfolio/">Portfolio Website</a>  
 | 📝 <a href="https://peetlamahesh123.github.io/react-todo-app/">React Todo App</a> 
 | 🎮 <a href="https://peetlamahesh123.github.io/GuessWordGame/">Guess Word Game</a>
 | 💼 <a href="https://peetlamahesh123.github.io/FinHealth-SME-Navigator/">Financial Health Assessment Tool</a>  
-| 🛍️ <a href="https://peetlamahesh123.github.io/E-CommerceWebsite/">E-Commerce Website</a> <br>
 | 📄 <a href="https://peetlamahesh123.github.io/resume-ai/">AI Resume Editor</a>
 | 🧠 <a href="https://peetlamahesh123.github.io/QuizApplicationOnline/">Quiz Application Online</a>  
 | 🧮 <a href="https://peetlamahesh123.github.io/CalculatorApp/">Calculator App</a>
