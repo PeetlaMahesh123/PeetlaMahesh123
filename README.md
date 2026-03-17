@@ -23,9 +23,6 @@
 </p>
 
 ---
-<h3 align="center">
-    Aspiring Software Developer | Java Full-Stack Developer | Java Developer | Front End Developer | Back End Developer
-</h3>
 
 ---
 <p align="center">
