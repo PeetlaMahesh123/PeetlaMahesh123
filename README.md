@@ -57,7 +57,7 @@ continuously improving my skills to align with modern industry standards."
 </p>
 
 ---
-<h2 align="center"> 🔥 Contribution Graph </h2> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=PeetlaMahesh123&theme=chartreuse-dark" /> </p>
+
 
 ---
 
