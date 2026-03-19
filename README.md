@@ -114,8 +114,6 @@ continuously improving my skills to align with modern industry standards."
 <sub>TypeScript</sub>
 </td>
 
-<td></td>
-
 </tr>
 </table>
 
