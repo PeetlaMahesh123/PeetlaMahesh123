@@ -37,9 +37,84 @@ continuously improving my skills to align with modern industry standards."
 ---
 <h2 align="center"> 🚀 Most Used Technologies </h2>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,react,js,html,css,mysql,mongodb,git,github,docker,vscode" />
-</p>
+<table align="center">
+<tr>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=java" width="50"/><br>
+<sub><b>Java</b></sub>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=spring" width="50"/><br>
+<sub><b>Spring</b></sub>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=hibernate" width="50"/><br>
+<sub><b>Hibernate</b></sub>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=react" width="50"/><br>
+<sub><b>React</b></sub>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=js" width="50"/><br>
+<sub><b>JavaScript</b></sub>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=html" width="50"/><br>
+<sub><b>HTML</b></sub>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=css" width="50"/><br>
+<sub><b>CSS</b></sub>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=mysql" width="50"/><br>
+<sub><b>MySQL</b></sub>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=mongodb" width="50"/><br>
+<sub><b>MongoDB</b></sub>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=git" width="50"/><br>
+<sub><b>Git</b></sub>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=github" width="50"/><br>
+<sub><b>GitHub</b></sub>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=docker" width="50"/><br>
+<sub><b>Docker</b></sub>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=vscode" width="50"/><br>
+<sub><b>VS Code</b></sub>
+</td>
+
+</tr>
+</table>
 
 ---
 <h2 align="center">🌍 Live Projects</h2>
