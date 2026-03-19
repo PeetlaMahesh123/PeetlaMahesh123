@@ -109,6 +109,11 @@ continuously improving my skills to align with modern industry standards."
 <sub>VS Code</sub>
 </td>
 
+<td align="center">
+<img src="https://skillicons.dev/icons?i=ts" width="40"/><br>
+<sub>TypeScript</sub>
+</td>
+
 <td></td>
 
 </tr>
