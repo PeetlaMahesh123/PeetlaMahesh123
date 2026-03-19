@@ -64,33 +64,53 @@ continuously improving my skills to align with modern industry standards."
 
 <h2 align="center"> 🌐 Connect with me </h2>
 
-<div align="center">
+<table align="center">
+<tr>
 
-  <a href="https://github.com/PeetlaMahesh123" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="40" />
-  </a>
+<td align="center" width="120">
+<a href="https://github.com/PeetlaMahesh123" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" width="50"/><br>
+<sub><b>GitHub</b></sub>
+</a>
+</td>
 
-  <a href="https://www.linkedin.com/in/peetla-mahesh-372438253" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
-  </a>
+<td align="center" width="120">
+<a href="https://www.linkedin.com/in/peetla-mahesh-372438253" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" width="50"/><br>
+<sub><b>LinkedIn</b></sub>
+</a>
+</td>
 
-  <a href="mailto:peetlamahesh81@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
-  </a>
+<td align="center" width="120">
+<a href="mailto:peetlamahesh81@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="50"/><br>
+<sub><b>Email</b></sub>
+</a>
+</td>
 
-  <a href="https://peetlamahesh123.github.io/myPortfolio/" target="_blank">
-    <img src="https://img.icons8.com/color/48/domain.png" height="40" />
-  </a>
+<td align="center" width="120">
+<a href="https://peetlamahesh123.github.io/myPortfolio/" target="_blank">
+<img src="https://img.icons8.com/color/48/domain.png" width="50"/><br>
+<sub><b>Portfolio</b></sub>
+</a>
+</td>
 
-  <a href="tel:+919182353829">
-    <img src="https://img.icons8.com/color/48/phone.png" height="40" />
-  </a>
+<td align="center" width="120">
+<a href="tel:+919182353829">
+<img src="https://img.icons8.com/color/48/phone.png" width="50"/><br>
+<sub><b>Phone</b></sub>
+</a>
+</td>
 
-  <a href="https://leetcode.com/u/mahesh21cs042/" target="_blank">
-    <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="40" />
-  </a>
+<td align="center" width="120">
+<a href="https://leetcode.com/u/mahesh21cs042/" target="_blank">
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="50"/><br>
+<sub><b>LeetCode</b></sub>
+</a>
+</td>
 
-</div>
+</tr>
+</table>
 
 ---
 <h2 align="center">🔥 Contribution Overview</h2>
