@@ -467,77 +467,93 @@ continuously improving my skills to align with modern industry standards."
 ## 📌 Projects
 
 ---
-### 🛒 GlobalMart E-Commerce Application (Full-Stack + Razorpay)
 
-- Built a full-stack e-commerce application with Admin and Customer modules.
-- Implemented secure user registration, login, and logout functionality.
-- Developed Admin features to add, update, delete products and manage users.
-- Integrated business analytics with daily, monthly, yearly, and overall reports.
-- Enabled customers to browse products, manage cart, and place orders.
-- Integrated Razorpay payment gateway for secure online payments and order confirmation.
+### 🛒 GlobalMart E-Commerce Platform  
+**Tech Stack:** Java | Spring Boot | Hibernate | MySQL | Razorpay  
 
----
+- Developed a full-stack e-commerce application with Admin and Customer modules.  
+- Implemented secure authentication (registration, login, logout).  
+- Built admin dashboard for managing products and users (CRUD operations).  
+- Integrated business analytics (daily, monthly, yearly reports).  
+- Enabled cart management and order processing for customers.  
+- Integrated Razorpay for secure online payments and order confirmation.  
 
-### 🎓 React Todo List Application (React.js)
-
-- Built a responsive task management application using React. 
-- Implemented add, edit, delete, and mark-as-complete features. 
-- Used React Hooks (useState, useEffect) for state management.  
-- Integrated Local Storage for persistent data storage.  
+🔗 **Live Demo:** https://peetlamahesh123.github.io/globalmart/  
 
 ---
 
-### 🤖 MyPortfolio with Custom AI Assistant (Full-Stack + AI Integration)
+### 🎓 React Todo Application  
+**Tech Stack:** React.js | JavaScript | Local Storage  
 
-- Built an interactive and fully responsive personal portfolio website. 
-- Integrated a custom AI assistant to answer questions about skills, projects, and experience.  
-- Implemented real-time AI response handling using API integration.  
+- Developed a responsive task management application using React.  
+- Implemented add, edit, delete, and mark-as-complete features.  
+- Used React Hooks (useState, useEffect) for efficient state management.  
+- Integrated Local Storage for persistent data handling.  
+
+🔗 **Live Demo:** https://peetlamahesh123.github.io/react-todo-app/  
+
+---
+
+### 🤖 AI-Powered Portfolio Website  
+**Tech Stack:** HTML | CSS | JavaScript | AI API  
+
+- Built a fully responsive personal portfolio website.  
+- Integrated a custom AI assistant to answer queries about skills and projects.  
+- Implemented real-time AI responses using API integration.  
 - Designed dynamic UI sections for projects, certifications, and contact details.  
-- Demonstrated full-stack development with frontend, backend, and AI integration.  
-- Enhanced recruiter interaction with intelligent guided responses.  
+- Enhanced recruiter interaction through intelligent guided responses.  
+
+🔗 **Live Demo:** https://peetlamahesh123.github.io/myPortfolio/  
 
 ---
 
-### 🛒 Shop Management System (Hibernate)
+### 🛒 Shop Management System  
+**Tech Stack:** Java | Hibernate  
 
 - Implemented admin-only authentication using enum-based role management.  
 - Developed secure CRUD operations for managing shop data.  
-- Prevented unauthorized access with proper validation and security checks.  
+- Ensured data protection with proper validation and access control.  
 
 ---
 
-### 📝 Online Quiz Application (HTML, CSS, JavaScript)
+### 🧠 Online Quiz Application  
+**Tech Stack:** HTML | CSS | JavaScript  
 
-- Built an interactive quiz platform using pure frontend technologies.  
-- Implemented dynamic question rendering and answer validation logic.  
-- Developed score tracking system with performance summary.  
-- Integrated countdown timer for enhanced user experience.  
-- Designed clean and responsive UI layout.  
+- Built an interactive quiz platform with dynamic question rendering.  
+- Implemented answer validation and score tracking system.  
+- Added countdown timer for improved user engagement.  
+- Designed a clean and responsive user interface.  
+
+🔗 **Live Demo:** https://peetlamahesh123.github.io/QuizApplicationOnline/  
 
 ---
 
-### 🎓 Student Management System (JDBC)
+### 🎓 Student Management System  
+**Tech Stack:** Java | JDBC | MySQL  
 
-- Built CRUD operations for managing student records.  
-- Used JDBC for secure database connectivity.  
+- Developed CRUD operations for managing student records.  
+- Used JDBC for secure and efficient database connectivity.  
 - Implemented structured query handling and data validation.  
 
 ---
 
-### 🎮 Guess Word Game (HTML, CSS, JavaScript)
+### 🎮 Guess Word Game  
+**Tech Stack:** HTML | CSS | JavaScript  
 
-- Developed an interactive word guessing game using pure frontend technologies.  
-- Implemented random word generation and input validation logic..  
-- Provided real-time feedback for correct and incorrect guesses.  
-- Added attempt limits with win/lose condition handling.  
-- Designed responsive and engaging user interface.  
+- Developed an interactive word guessing game.  
+- Implemented random word generation and input validation.  
+- Provided real-time feedback for user inputs.  
+- Designed engaging UI with win/lose logic and attempt limits.  
+
+🔗 **Live Demo:** https://peetlamahesh123.github.io/GuessWordGame/  
 
 ---
 
-### 🏥 Hospital Management System (JDBC)
+### 🏥 Hospital Management System  
+**Tech Stack:** Java | JDBC | MySQL  
 
-- Managed patients, doctors, and appointments efficiently.  
-- Designed relational database tables with proper schema structure.  
+- Managed patients, doctors, and appointment records.  
+- Designed relational database schema for efficient data handling.  
 - Implemented CRUD operations using JDBC connectivity.  
 
 ---
