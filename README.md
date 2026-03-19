@@ -45,7 +45,8 @@ continuously improving my skills to align with modern industry standards."
 <h2 align="center">🌍 Live Projects</h2>
 
 <p align="center">
-   🛍️ <a href="https://peetlamahesh123.github.io/globalmart/">GlobalMart E-Commerce Website</a> <br>
+ 🛍️ <a href="https://peetlamahesh123.github.io/echelon-commerce/">RoyalMart</a> <br>
+| 🛍️ <a href="https://peetlamahesh123.github.io/globalmart/">GlobalMart E-Commerce Website</a> <br>
 | 🌐 <a href="https://peetlamahesh123.github.io/myPortfolio/">Portfolio Website</a>  
 | 📝 <a href="https://peetlamahesh123.github.io/react-todo-app/">React Todo App</a> 
 | 🎮 <a href="https://peetlamahesh123.github.io/GuessWordGame/">Guess Word Game</a>
