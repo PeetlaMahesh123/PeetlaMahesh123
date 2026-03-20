@@ -9,7 +9,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=800&size=30&duration=3500&pause=1000&color=39FF14&center=true&vCenter=true&width=1000&height=90&lines=💻+Full+Stack+Web+Developer;⚡+Java+%26+Spring+Boot+Backend+Engineer;🌐+MERN+Stack+Developer;🛢️+MySQL+%26+MongoDB+Database+Specialist;🔐+Authentication+%26+REST+API+Developer;📊+Data+Structures+%26+Algorithms+Programmer;🎯+Problem+Solving+Enthusiast;🎨+UI%2FUX+Design+Explorer;🚀+Software+Development+Engineer;🧠+Core+Computer+Science+Learner" />
 </div>
 
-
 ---
 <!-- 👁 Profile Views -->
 <h2 align="center"> 💡 My Profile Views </h2>
