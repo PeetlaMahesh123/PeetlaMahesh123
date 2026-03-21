@@ -638,8 +638,12 @@ continuously improving my skills to align with modern industry standards."
   <img src="https://img.icons8.com/fluency/48/navigation.png" width="50"/>
 </a><br>
 <sub><b>Tirupati, Andhra Pradesh, India</b></sub>
+</td>
+</tr>
+</table>
 
----
+<br><br>
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=120&section=footer&animation=fadeIn" />
 </div>
