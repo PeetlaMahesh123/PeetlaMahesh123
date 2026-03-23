@@ -22,6 +22,9 @@
   <img src="https://img.shields.io/badge/dynamic/json?label=Following&query=%24.following&url=https://api.github.com/users/PeetlaMahesh123&style=for-the-badge&color=28A745" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub%20Grade-A+-brightgreen?style=for-the-badge&logo=github" />
+</p>
 ---
 <h3 align="center">
     Aspiring Software Developer | Java Full-Stack Developer | Java Developer | Front End Developer | Back End Developer
@@ -206,8 +209,8 @@ continuously improving my skills to align with modern industry standards."
 <h2 align="center"> 📊 GitHub Stats </h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PeetlaMahesh123&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PeetlaMahesh123&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PeetlaMahesh123&show_icons=true&theme=radical" width="48%" height="195"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PeetlaMahesh123&theme=radical" width="48%" height="195"/>
 </p>
 
 <h2 align="center"> 💻 Most Used Languages </h2>
@@ -220,10 +223,6 @@ continuously improving my skills to align with modern industry standards."
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PeetlaMahesh123&theme=radical" width="90%"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/GitHub%20Grade-A+-brightgreen?style=for-the-badge&logo=github" />
 </p>
 
 ---
@@ -241,14 +240,6 @@ continuously improving my skills to align with modern industry standards."
 - 🧠 Strong DSA & OOP Knowledge  
 
 ---
-## 📈 Activity & Radar Chart
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PeetlaMahesh123&theme=tokyonight" />
-</p>
-
----
-
 ## 🥧 Languages & Contributions Summary
 
 <p align="center">
