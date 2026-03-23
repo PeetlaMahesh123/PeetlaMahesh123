@@ -204,7 +204,7 @@ continuously improving my skills to align with modern industry standards."
 <h2 align="center"> 📊 GitHub Stats </h2>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PeetlaMahesh123&theme=tokyonight" width="48%"/>
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PeetlaMahesh123&theme=default" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PeetlaMahesh123&theme=tokyonight" width="48%"/>
 </p>
 <h2 align="center"> 💻 Most Used Languages </h2>
