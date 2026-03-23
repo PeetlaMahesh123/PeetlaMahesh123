@@ -204,8 +204,14 @@ continuously improving my skills to align with modern industry standards."
 <h2 align="center"> 📊 GitHub Stats </h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PeetlaMahesh123&show_icons=true&theme=default" width="49%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PeetlaMahesh123&theme=gruvbox" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PeetlaMahesh123&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PeetlaMahesh123&theme=tokyonight" width="48%"/>
+</p>
+
+<h2 align="center"> 💻 Most Used Languages </h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeetlaMahesh123&layout=compact&theme=tokyonight" width="40%"/>
 </p>
 
 ---
