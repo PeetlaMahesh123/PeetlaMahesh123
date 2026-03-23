@@ -483,7 +483,7 @@ continuously improving my skills to align with modern industry standards."
 - Configured Row Level Security (RLS) for secure user-specific data access.
 - Handled real-world issues like foreign key constraints and API errors.
 
-🔗 Live Demo: [https://your-live-link.com](https://freshcart-fy0h.onrender.com/)
+🔗 Live Demo: https://freshcart-fy0h.onrender.com/
 
 ---
 ### 🛒 GlobalMart E-Commerce Platform  
