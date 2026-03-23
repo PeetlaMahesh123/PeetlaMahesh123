@@ -5,12 +5,13 @@
 <!-- 👁 Profile Views -->
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=PeetlaMahesh123&label=Profile%20views&color=8A2BE2&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=PeetlaMahesh123&label=Profile%20Views&color=8A2BE2&style=for-the-badge" />
 <img src="https://img.shields.io/github/followers/PeetlaMahesh123?label=Followers&style=for-the-badge&color=1E90FF" />
 <img src="https://img.shields.io/badge/dynamic/json?label=Following&query=%24.following&url=https://api.github.com/users/PeetlaMahesh123&style=for-the-badge&color=28A745" />
 <img src="https://img.shields.io/badge/GitHub%20Grade-A+-orange?style=for-the-badge&logo=github" />
 
 </div>
+
 ---
 <!-- 🔥 Animated Typing -->
 <div align="center">
