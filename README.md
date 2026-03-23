@@ -25,6 +25,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/GitHub%20Grade-A+-brightgreen?style=for-the-badge&logo=github" />
 </p>
+
 ---
 <h3 align="center">
     Aspiring Software Developer | Java Full-Stack Developer | Java Developer | Front End Developer | Back End Developer
