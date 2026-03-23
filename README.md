@@ -2,29 +2,20 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=160&section=header&text=💻%20Hi%20👋,%20I'm%20Peetla%20Mahesh%20⚡&fontSize=38&fontAlignY=40&animation=fadeIn&fontColor=ffffff" />
 </div>
+<!-- 👁 Profile Views -->
+<div align="center">
 
+<img src="https://komarev.com/ghpvc/?username=PeetlaMahesh123&label=Profile%20views&color=8A2BE2&style=flat" />
+<img src="https://img.shields.io/github/followers/PeetlaMahesh123?label=Followers&style=for-the-badge&color=1E90FF" />
+<img src="https://img.shields.io/badge/dynamic/json?label=Following&query=%24.following&url=https://api.github.com/users/PeetlaMahesh123&style=for-the-badge&color=28A745" />
+<img src="https://img.shields.io/badge/GitHub%20Grade-A+-orange?style=for-the-badge&logo=github" />
+
+</div>
 ---
 <!-- 🔥 Animated Typing -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=800&size=30&duration=3500&pause=1000&color=39FF14&center=true&vCenter=true&width=1000&height=90&lines=💻+Full+Stack+Web+Developer;⚡+Java+%26+Spring+Boot+Backend+Engineer;🌐+MERN+Stack+Developer;🛢️+MySQL+%26+MongoDB+Database+Specialist;🔐+Authentication+%26+REST+API+Developer;📊+Data+Structures+%26+Algorithms+Programmer;🎯+Problem+Solving+Enthusiast;🎨+UI%2FUX+Design+Explorer;🚀+Software+Development+Engineer;🧠+Core+Computer+Science+Learner" />
 </div>
-
----
-<!-- 👁 Profile Views -->
-<h2 align="center"> 💡 My Profile Views </h2>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PeetlaMahesh123&label=Profile%20views&color=8A2BE2&style=flat" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/PeetlaMahesh123?label=Followers&style=for-the-badge&color=1E90FF" />
-  <img src="https://img.shields.io/badge/dynamic/json?label=Following&query=%24.following&url=https://api.github.com/users/PeetlaMahesh123&style=for-the-badge&color=28A745" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/GitHub%20Grade-A+-orange?style=for-the-badge&logo=github" />
-</p>
 
 ---
 <h3 align="center">
