@@ -201,16 +201,29 @@ continuously improving my skills to align with modern industry standards."
 </p>
 
 ---
+<h1 align="center"> 🚀 Mahesh Peetla GitHub Stats </h1>
+
 <h2 align="center"> 📊 GitHub Stats </h2>
 
 <p align="center">
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PeetlaMahesh123&theme=radical&v=2" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PeetlaMahesh123&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PeetlaMahesh123&show_icons=true&theme=radical" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PeetlaMahesh123&theme=radical" width="48%"/>
 </p>
+
 <h2 align="center"> 💻 Most Used Languages </h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeetlaMahesh123&layout=compact&theme=tokyonight" width="40%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeetlaMahesh123&layout=compact&theme=radical" width="40%"/>
+</p>
+
+<h2 align="center"> 🏆 Profile Summary </h2>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PeetlaMahesh123&theme=radical" width="90%"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub%20Grade-A+-brightgreen?style=for-the-badge&logo=github" />
 </p>
 
 ---
