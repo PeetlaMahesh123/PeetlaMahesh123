@@ -205,7 +205,7 @@ continuously improving my skills to align with modern industry standards."
 <h2 align="center"> 📊 GitHub Stats </h2>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PeetlaMahesh123&theme=tokyonight" width="49%"/>
+ ![Mahesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=PeetlaMahesh123&show_icons=true&theme=default)
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PeetlaMahesh123&theme=gruvbox" width="49%"/>
 </p>
 
