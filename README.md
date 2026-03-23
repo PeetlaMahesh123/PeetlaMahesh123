@@ -470,7 +470,22 @@ continuously improving my skills to align with modern industry standards."
 ## 📌 Projects
 
 ---
+### 🛒 FreshCart E-Commerce Platform
 
+Tech Stack: React | TypeScript | Supabase | PostgreSQL
+
+Developed a full-stack e-commerce web application with user and admin functionalities.
+Implemented authentication using Supabase (signup, login, session management).
+Built dynamic product listing with category-based filtering.
+Designed a relational cart system using cart and cart_items tables.
+Enabled add-to-cart, update quantity, and remove item features.
+Implemented checkout flow with order data handling.
+Configured Row Level Security (RLS) for secure user-specific data access.
+Handled real-world issues like foreign key constraints and API errors.
+
+🔗 Live Demo: [https://your-live-link.com](https://freshcart-fy0h.onrender.com/)
+
+---
 ### 🛒 GlobalMart E-Commerce Platform  
 **Tech Stack:** Java | Spring Boot | Hibernate | MySQL | Razorpay  
 
