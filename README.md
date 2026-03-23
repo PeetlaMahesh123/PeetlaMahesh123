@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/GitHub%20Grade-A+-brightgreen?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/GitHub%20Grade-A+-orange?style=for-the-badge&logo=github" />
 </p>
 
 ---
