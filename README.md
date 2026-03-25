@@ -197,7 +197,6 @@ continuously improving my skills to align with modern industry standards."
 </p>
 
 ---
-<h1 align="center"> 🚀 Mahesh Peetla GitHub Stats </h1>
 
 <h2 align="center"> 📊 GitHub Stats </h2>
 
