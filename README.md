@@ -1,6 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=160&section=header&text=💻%20Hi%20👋,%20I'm%20Peetla%20Mahesh%20⚡&fontSize=38&fontAlignY=40&animation=fadeIn&fontColor=ffffff" />
 </div>
+<img width="1536" height="1024" alt="banner1" src="https://github.com/user-attachments/assets/694fdda0-3734-4b91-a8e7-51763ba04d22" />
 
 <!-- 👁 Profile Views -->
 <div align="center">
