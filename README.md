@@ -174,13 +174,6 @@ continuously improving my skills to align with modern industry standards."
 </td>
 
 <td align="center" width="120">
-<a href="tel:+919182353829">
-<img src="https://img.icons8.com/color/48/phone.png" width="50"/><br>
-<sub><b>Phone</b></sub>
-</a>
-</td>
-
-<td align="center" width="120">
 <a href="https://leetcode.com/u/mahesh21cs042/" target="_blank">
 <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="50"/><br>
 <sub><b>LeetCode</b></sub>
