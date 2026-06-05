@@ -481,21 +481,19 @@ continuously improving my skills to align with modern industry standards."
 🔗 Live Demo: https://freshcart-fy0h.onrender.com/
 
 ---
-📋 TaskMaster – Project Management & Team Collaboration Platform
+📋 TaskMaster – Project Management Platform
 
-Tech Stack: React.js | Node.js | Express.js | Supabase | PostgreSQL | REST APIs
-Developed a full-stack project management application for task tracking, team collaboration, and productivity management.
-Implemented secure user authentication and authorization with protected routes and JWT-based session handling.
-Built an interactive Kanban board supporting task creation, editing, deletion, status updates, and drag-and-drop workflow management.
-Developed a dynamic dashboard with analytics, task statistics, priority tracking, and productivity insights.
-Created a calendar management system with event scheduling, event tracking, and upcoming activity visualization.
-Implemented team management functionality with member creation, editing, deletion, and team directory features.
-Developed user profile management and customizable application settings with theme support using React Context API.
-Integrated Supabase database operations for handling tasks, users, events, settings, notifications, and team data.
-Designed RESTful backend APIs using Express.js with modular controllers, routes, middleware, and database integration.
-Implemented responsive UI components, reusable layouts, modern navigation, and role-based application workflows.
+**Tech Stack:** React.js | Node.js | Express.js | Supabase
+
+* Developed a full-stack project management and team collaboration application.
+* Implemented secure user authentication and protected routes.
+* Built a Kanban board with task creation, editing, deletion, and drag-and-drop functionality.
+* Developed dashboard analytics for tracking tasks and productivity.
+* Created calendar scheduling and team management modules.
+* Integrated Supabase database with RESTful APIs for data management.
 
 🔗 Live Demo: https://peetlamahesh123.github.io/taskmasterapp/
+
 🔗 Backend API: https://taskmasterapp-5dto.onrender.com/
 
 ---
