@@ -127,7 +127,6 @@ continuously improving my skills to align with modern industry standards."
 🛒 <a href="https://peetlamahesh123.github.io/globalmart/">GlobalMart</a> 
 
 ---
-<br>
 
 🎮 <a href="https://peetlamahesh123.github.io/GuessWordGame/">Word Game</a> &nbsp; | &nbsp;
 💼 <a href="https://peetlamahesh123.github.io/FinHealth-SME-Navigator/">Finance Tool</a> &nbsp; | &nbsp;
