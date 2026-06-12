@@ -122,14 +122,14 @@ continuously improving my skills to align with modern industry standards."
 🛒 <a href="https://freshcart-fy0h.onrender.com/">FreshCart</a> &nbsp; | &nbsp;
 🌐 <a href="https://peetlamahesh123.github.io/myPortfolio/">Portfolio</a> &nbsp; | &nbsp;
 📋 <a href="https://peetlamahesh123.github.io/taskmasterapp/">TaskMaster</a> &nbsp; | &nbsp;
-📝 <a href="https://peetlamahesh123.github.io/react-todo-app/">Todo App</a> &nbsp; | &nbsp;
+💼 <a href="https://peetlamahesh123.github.io/FinHealth-SME-Navigator/">Finance Tool</a> &nbsp; | &nbsp;
 🛍️ <a href="https://peetlamahesh123.github.io/echelon-commerce/">RoyalMart</a> &nbsp; | &nbsp;
 🛒 <a href="https://peetlamahesh123.github.io/globalmart/">GlobalMart</a> 
 
 ---
 
 🎮 <a href="https://peetlamahesh123.github.io/GuessWordGame/">Word Game</a> &nbsp; | &nbsp;
-💼 <a href="https://peetlamahesh123.github.io/FinHealth-SME-Navigator/">Finance Tool</a> &nbsp; | &nbsp;
+📝 <a href="https://peetlamahesh123.github.io/react-todo-app/">Todo App</a> &nbsp; | &nbsp;
 📄 <a href="https://peetlamahesh123.github.io/resume-ai/">AI Resume</a> &nbsp; | &nbsp;
 🧠 <a href="https://peetlamahesh123.github.io/QuizApplicationOnline/">Quiz App</a> &nbsp; | &nbsp;
 🧮 <a href="https://peetlamahesh123.github.io/CalculatorApp/">Calculator</a>
