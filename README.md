@@ -468,16 +468,6 @@ continuously improving my skills to align with modern industry standards."
 ### 🛒 FreshCart E-Commerce Platform
 
 **Tech Stack:** React | TypeScript | Supabase | PostgreSQL
-
-- Developed a full-stack e-commerce web application with user and admin functionalities.
-- Implemented authentication using Supabase (signup, login, session management).
-- Built dynamic product listing with category-based filtering.
-- Designed a relational cart system using cart and cart_items tables.
-- Enabled add-to-cart, update quantity, and remove item features.
-- Implemented checkout flow with order data handling.
-- Configured Row Level Security (RLS) for secure user-specific data access.
-- Handled real-world issues like foreign key constraints and API errors.
-
 🔗 Live Demo: https://freshcart-fy0h.onrender.com/
 
 ---
@@ -485,39 +475,20 @@ continuously improving my skills to align with modern industry standards."
 
 **Tech Stack:** React.js | Node.js | Express.js | Supabase
 
-* Developed a full-stack project management and team collaboration application.
-* Implemented secure user authentication and protected routes.
-* Built a Kanban board with task creation, editing, deletion, and drag-and-drop functionality.
-* Developed dashboard analytics for tracking tasks and productivity.
-* Created calendar scheduling and team management modules.
-* Integrated Supabase database with RESTful APIs for data management.
-
 🔗 Live Demo: https://peetlamahesh123.github.io/taskmasterapp/
-
 🔗 Backend API: https://taskmasterapp-5dto.onrender.com/
 
 ---
 ### 🛒 GlobalMart E-Commerce Platform  
 **Tech Stack:** Java | Spring Boot | Hibernate | MySQL | Razorpay  
 
-- Developed a full-stack e-commerce application with Admin and Customer modules.  
-- Implemented secure authentication (registration, login, logout).  
-- Built admin dashboard for managing products and users (CRUD operations).  
-- Integrated business analytics (daily, monthly, yearly reports).  
-- Enabled cart management and order processing for customers.  
-- Integrated Razorpay for secure online payments and order confirmation.  
-
 🔗 **Live Demo:** https://peetlamahesh123.github.io/globalmart/  
 
 ---
 
-### 🎓 React Todo Application  
-**Tech Stack:** React.js | JavaScript | Local Storage  
+### 🎓 React Todo Application 
 
-- Developed a responsive task management application using React.  
-- Implemented add, edit, delete, and mark-as-complete features.  
-- Used React Hooks (useState, useEffect) for efficient state management.  
-- Integrated Local Storage for persistent data handling.  
+**Tech Stack:** React.js | JavaScript | Local Storage  
 
 🔗 **Live Demo:** https://peetlamahesh123.github.io/react-todo-app/  
 
@@ -526,32 +497,18 @@ continuously improving my skills to align with modern industry standards."
 ### 🤖 AI-Powered Portfolio Website  
 **Tech Stack:** HTML | CSS | JavaScript | AI API  
 
-- Built a fully responsive personal portfolio website.  
-- Integrated a custom AI assistant to answer queries about skills and projects.  
-- Implemented real-time AI responses using API integration.  
-- Designed dynamic UI sections for projects, certifications, and contact details.  
-- Enhanced recruiter interaction through intelligent guided responses.  
-
 🔗 **Live Demo:** https://peetlamahesh123.github.io/myPortfolio/  
 
 ---
 
-### 🛒 Shop Management System  
-**Tech Stack:** Java | Hibernate  
+### 🛒 Shop Management System 
 
-- Implemented admin-only authentication using enum-based role management.  
-- Developed secure CRUD operations for managing shop data.  
-- Ensured data protection with proper validation and access control.  
+**Tech Stack:** Java | Hibernate  
 
 ---
 
 ### 🧠 Online Quiz Application  
 **Tech Stack:** HTML | CSS | JavaScript  
-
-- Built an interactive quiz platform with dynamic question rendering.  
-- Implemented answer validation and score tracking system.  
-- Added countdown timer for improved user engagement.  
-- Designed a clean and responsive user interface.  
 
 🔗 **Live Demo:** https://peetlamahesh123.github.io/QuizApplicationOnline/  
 
@@ -560,19 +517,10 @@ continuously improving my skills to align with modern industry standards."
 ### 🎓 Student Management System  
 **Tech Stack:** Java | JDBC | MySQL  
 
-- Developed CRUD operations for managing student records.  
-- Used JDBC for secure and efficient database connectivity.  
-- Implemented structured query handling and data validation.  
-
 ---
 
 ### 🎮 Guess Word Game  
 **Tech Stack:** HTML | CSS | JavaScript  
-
-- Developed an interactive word guessing game.  
-- Implemented random word generation and input validation.  
-- Provided real-time feedback for user inputs.  
-- Designed engaging UI with win/lose logic and attempt limits.  
 
 🔗 **Live Demo:** https://peetlamahesh123.github.io/GuessWordGame/  
 
@@ -580,10 +528,6 @@ continuously improving my skills to align with modern industry standards."
 
 ### 🏥 Hospital Management System  
 **Tech Stack:** Java | JDBC | MySQL  
-
-- Managed patients, doctors, and appointment records.  
-- Designed relational database schema for efficient data handling.  
-- Implemented CRUD operations using JDBC connectivity.  
 
 ---
 ## 📚 Currently Learning
